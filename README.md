@@ -1,6 +1,6 @@
 # About the project
 
-![alt text](https://github.com/theCRABsite/price-lock/blob/main/pricelocker.png "Pricelocker")
+![alt text](https://github.com/theCRABsite/price-lock/blob/main/price-lock.png "Pricelocker")
 
 
 ## Pricelocker
@@ -82,9 +82,3 @@ $ npm run dev
 ```
 
 <br />
-
-# Contact
-Contact me via email (nelis.sol@protonmail.com) or on X (@nelis-sol)
-
-<br /><br />
-
